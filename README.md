@@ -1,4 +1,4 @@
-# bibly
+# Bibly
 An eCommerce bookstore built with MERN & Redux
 
 ![Screen Shot 2021-06-29 at 10 45 43 AM](https://user-images.githubusercontent.com/78372567/123822015-e5c74500-d8c9-11eb-9738-d09fc7635dc6.png)
